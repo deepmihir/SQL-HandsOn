@@ -94,6 +94,10 @@ This README file provides an overview of SQL topics and their subtopics, divided
    - Sharding and partitioning
    - Data warehousing
 
+## SQL Video Tutorials
+
+For visual learning and practical examples, you can check out this [YouTube playlist](https://youtube.com/playlist?list=PL08903FB7ACA1C2FB) that covers various SQL topics.
+
 ## Conclusion
 
 This README file serves as a roadmap for learning and mastering SQL. It outlines the different levels of SQL proficiency, from Basic to Intermediate and Advanced, along with their respective topics and subtopics. Use this guide to navigate your SQL learning journey and progressively deepen your understanding of SQL and its advanced concepts.
